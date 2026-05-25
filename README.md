@@ -15,7 +15,7 @@ CUSTOMIZATION GUIDE:
 
 ## 👋 Hi, I'm Stephen Keaneeth Nagularapu
 
-### 🚀 Data Scientist | AI/ML Enthusiast | Cybersecurity Explorer
+### 🚀 Aspiring Data Scientist | AI/ML Enthusiast | Cybersecurity Explorer
 
 ```
 > whoami
