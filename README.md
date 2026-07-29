@@ -19,7 +19,7 @@ CUSTOMIZATION GUIDE:
 
 ```
 > whoami
-  Computer Science Engineering Student | Open Source Contributor
+  Computer Science Engineering Student |
   Building impactful projects in AI, Data Science & Security
 ```
 
@@ -36,7 +36,7 @@ CUSTOMIZATION GUIDE:
 
 👨‍💼 **Computer Science Engineering Student** from **Telangana, India**
 
-I'm passionate about leveraging data and AI to solve real-world problems. My journey focuses on **Data Science**, **Machine Learning**, and **Cybersecurity**, with a commitment to building impactful projects and contributing to open source.
+I'm passionate about leveraging data and AI to solve real-world problems. My journey focuses on **Data Science**, **Machine Learning**, and **Cybersecurity**, with a commitment to building impactful projects.
 
 - 🎓 **CSE Student** | Focused on Data-Driven Solutions
 - 🏆 **Interests:** AI/ML, Cybersecurity, Data Science, Networking
@@ -48,7 +48,7 @@ I'm passionate about leveraging data and AI to solve real-world problems. My jou
 ## 🎯 Current Focus
 
 ### Currently Learning
-- 📊 Data Structures & Algorithms (Foundation)
+- 📊 Data Structures & Algorithms
 - 🤖 Machine Learning & Deep Learning
 - 🔐 Networking Fundamentals & Security
 - 🐍 Advanced Python Programming
