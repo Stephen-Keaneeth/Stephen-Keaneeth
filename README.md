@@ -23,15 +23,4 @@ CUSTOMIZATION GUIDE:
 </div>
 
 ---
-
----
-
-<div align="center">
-
-### ⭐ If you find this profile useful, feel free to star some of my projects!
-
-**Let's build something amazing together!** 🚀
-
-</div>
-
 ---
