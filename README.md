@@ -13,7 +13,7 @@ CUSTOMIZATION GUIDE:
 
 <div align="center">
 
-## 👋 Hi, I'm Stephen Keaneeth Nagularapu
+## 👋 Hi, I'm Stephen Keaneeth
 
 <!-- GitHub Stats -->
 [![GitHub followers](https://img.shields.io/github/followers/stephen-keaneeth?label=Followers&style=flat-square&logo=github&logoColor=white)](https://github.com/stephen-keaneeth)
