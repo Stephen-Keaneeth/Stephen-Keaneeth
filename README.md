@@ -24,9 +24,6 @@ CUSTOMIZATION GUIDE:
 
 ---
 
-
- science, AI, cybersecurity, or tech in general!
-
 ---
 
 <div align="center">
